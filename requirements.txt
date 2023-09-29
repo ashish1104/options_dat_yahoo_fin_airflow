@@ -1,0 +1,6 @@
+polygon
+html5lib
+yahoo_fin
+yfinance
+gspread
+polygon-api-client
