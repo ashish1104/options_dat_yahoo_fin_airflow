@@ -132,6 +132,6 @@ def options_pipe():
         op_sheet.update([all_data.columns.values.tolist()] + all_data.values.tolist())
     
     ticker_list = get_all_tickers('1JPuCJUMEZfnsokn3WO_uLKvk4HrhYgLtwf6XLOeZGC4','input_ticker_list')
-    [stock_info_yahoo(ticker_list),options_dat_yahoo(ticker_list)] >> combine_data() >> upload_data('1JPuCJUMEZfnsokn3WO_uLKvk4HrhYgLtwf6XLOeZGC4','All Data')
+    [stock_info_yahoo(ticker_list),options_dat_yahoo(ticker_list)] >> combine_data() >> upload_data('1JPuCJUMEZfnsokn3WO_uLKvk4HrhYgLtwf6XLOeZGC4','Output')
 
 options_pipe()
