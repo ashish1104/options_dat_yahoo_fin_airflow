@@ -18,14 +18,14 @@ from urllib3 import HTTPResponse
 credentials = {
   "type": "service_account",
   "project_id": "putoptions",
-  "private_key_id": "fbea0fbe5a287ca4315427dbfb744695908437cd",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/sOVfA+XK5GDI\n/ielA2pdEtOtHU68yfQhZ6Qu+3PZzG1NBI7PMWeE4DK+DZl+k5i/S8rnX4gWxWXp\n/QOJ67hr8dC24z4Fa/TiXp3WuG4M/eS64QFSzTMUNRM/R7/80KI1pcSyCX+nGNQd\nSO/7yPbRYmJ0X4iYzm5CS5vBbGkAxAe3HP8c9GDYXikpmiU3BFFZqOF7uiZ3Je9A\nOhSJ4BNgrUMWagnqQ0e6ZtYI+19MjbIZTthPn6rqmlNf2Rzk0h1+Bqb3oIPP+rYr\n6beISfvBdmCkgqeS0sR+KheXz+lY+5QOOECpJdtp6o35ssMkVDK/2Z0FhtdXnNrg\nqArhuWbTAgMBAAECggEAEijPaeNkIwbkllXhapP6wQt2CxnSKjdVjc6UMrE2heUE\nW735S26KOH/GvtNp/aA84a5r7+RQb5vOrk5+RdQTWgKD+7dmWjwibEl7WWqKXme1\nAfEr32y6EImAo8eHzAr1uvBTxGv68Fj9SzLsLSWaIDbaTdz5A0TXFCe2fynmfqBp\ngJyi7UEw+/KdBNc8xIMrRiyNiEWmHsMI6QbGQFgVDjhjAKPNNHsDjnyVWCVdz8fl\npFASctDb6+JFA0Qf6+bs7BRp2Py2LtHS/9hVf6AyzNNdORzwFZrsk5X6HxAX6a/X\ndPVIMgbslha4759TibBNPiThRhD/JCrBMxmZWTfDDQKBgQDjFn4axzmepkp/aQEp\nvOrE0NRibpgHY0NdrtXXGvHpmcySvH+dMg8tS5hIUOY5OW6U6+W/kq9WtDlRafZV\ndl1a7OnWA28MK1/aMmqHTvnbO1zL49ytpQdNCIDfc7ElIRhtSbR0H1NaPsgsyz2Z\nTJK3DxLJWTBqHK83stftk1tOpQKBgQDYGLVXlnt5uLN8lSWwLHrUClT454VFwjcR\n96oUHLeNnK1ihXd4pST9Ul7RJcF8s2jIBV0bgV0n4EZf+NlZcHEOZURnVm4oD3uM\nt11czJzTMFj0lK+9lNpoCarhd0ztv/LF6u9Uk5b6mfqGsKR+RLO8CcEOuOHUXqlh\nYDV9aLYeFwKBgQCvpyVSB0ptiklTtmA87bFXHgU6Qjt8c26XV3Z3FZOL0vhnhEDd\n0evlaHTZcyIxn1gG/1VOUuMnmO5BKEpvnsflXh4d+bf63M4e1CKMmS0xRACqgY2g\nD2fPUUWGElIy2x+u4XUg4V4zDx79bxQtsQpHaPRqJIALhDaQSdk2HmZhNQKBgB/n\npf6EjT5vcrCWJLZaGthrnhgRtq+R+SeB9W56vu79juvY4MbDOy7blnwyotqScon1\noMWK2AInLrzEtPJrk4WYlfzb2e+4OXmRKQumehEENl4GBdxrucNaigw33PfNOz7V\nbPiDwerGCSMRuXebFR5SIlrWGSGNyFxEJCGb8CeJAoGBAKKQTmI3a2HgwbqviQKy\nwdTL9/YhpsAY2eyWbkwUhOfsCzCKUBhA9y9f6Hi3R44sfuGmHMybWTNkOpR5In9U\n0kl7wEza8ZMA6nQTYcZWiAY+mgD4Ccgfzee/TQV0HFmQqfE4MU0CvPdxXMz+QYwI\n1929IadhLrODWOYjOGMshzyp\n-----END PRIVATE KEY-----\n",
-  "client_email": "python-access@putoptions.iam.gserviceaccount.com",
-  "client_id": "109050425241888850775",
+  "private_key_id": "",
+  "private_key": ""
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-access%40putoptions.iam.gserviceaccount.com",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
   "universe_domain": "googleapis.com"
 }
 
